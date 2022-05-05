@@ -8,7 +8,6 @@ public class BanklineApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BanklineApiApplication.class, args);
 	}
-	//teste a aplicação com github
-	// teste 2
+	
 
 }
