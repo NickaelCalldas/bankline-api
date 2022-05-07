@@ -29,9 +29,7 @@ public class MovimentacaoController {
 	
 	
 	@GetMapping
-	public List<Movimentacao> findAll(){
-		
-		
+	public List<Movimentacao> findAll(){	
 		return repositorio.findAll();
 		
 	}
