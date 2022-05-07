@@ -14,7 +14,7 @@
 	<name>bankline-api</name>
 	<description>API REST do Projeto Bankline API</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
